@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.tours-page {
+    padding: 20px;
+    background-color: #F7F9FC; /* Light gray background */
+  }
+  
+  .tours-header {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #FF8C69; /* Soft coral for header */
+  }
+  
+  .tour-detail {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #FFF; /* White background for details */
+  }
+  
+  .tour-image {
+    width: 100%;  
+    height: auto; 
+    border-radius: 8px; 
+    margin: 20px 0; 
+  }
+  
+  .price {
+    font-size: 20px;
+    font-weight: bold;
+    color: #D4AF37; /* Warm gold for pricing */
+  }
+  
+  h2 {
+    color: #005B5C; /* Dark teal for section titles */
+  }
+  
+  h3 {
+    margin-top: 20px;
+    color: #005B5C; /* Dark teal for subsections */
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .btn {
+    margin-top: 15px;
+    padding: 10px 15px;
+    background-color: #4A647A; /* Slate blue for buttons */
+    color: #FFF; /* White text on buttons */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #005B5C; /* Dark teal for hover effect */
+  }
+  
+  h1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 35px;  
+}
