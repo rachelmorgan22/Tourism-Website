@@ -26,7 +26,7 @@ const toursData = [
       { name: "Jane D.", comment: "An unforgettable experience!" },
       { name: "John S.", comment: "Highly recommend this tour!" },
     ],
-    image: "path/to/tropical-paradise.jpg", // Update with actual image path
+    image: "./assets/tropical-paradise.jpg", // Update with actual image path
   },
   {
     title: "Mountain Adventure",
