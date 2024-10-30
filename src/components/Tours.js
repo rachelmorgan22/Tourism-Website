@@ -1,5 +1,7 @@
 import React from 'react';
 import '../styles/Tours.css'; // Import your CSS file
+import tropicalImage from '../assets/tropical-paradise.jpg';
+
 
 const toursData = [
   {
@@ -78,7 +80,7 @@ const toursData = [
       { name: "Mark D.", comment: "A fantastic way to learn about the culture!" },
       { name: "Sarah W.", comment: "I loved the market visit!" },
     ],
-    image: "../assets/cultural-journey.jpg", // Update with actual image path
+    image: "tropicalImage", 
   },
 ];
 
