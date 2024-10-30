@@ -26,7 +26,7 @@ const toursData = [
       { name: "Jane D.", comment: "An unforgettable experience!" },
       { name: "John S.", comment: "Highly recommend this tour!" },
     ],
-    image: "./assets/tropical-paradise.jpg", // Update with actual image path
+    image: "../assets/tropical-paradise.jpg", // Update with actual image path
   },
   {
     title: "Mountain Adventure",
@@ -52,7 +52,7 @@ const toursData = [
       { name: "Alice M.", comment: "The views were incredible!" },
       { name: "Tom B.", comment: "A must-do for nature lovers!" },
     ],
-    image: "path/to/mountain-adventure.jpg", // Update with actual image path
+    image: "../assets/mountain-adventure.jpg", // Update with actual image path
   },
   {
     title: "Cultural Journey",
@@ -78,7 +78,7 @@ const toursData = [
       { name: "Mark D.", comment: "A fantastic way to learn about the culture!" },
       { name: "Sarah W.", comment: "I loved the market visit!" },
     ],
-    image: "path/to/cultural-journey.jpg", // Update with actual image path
+    image: "../assets/cultural-journey.jpg", // Update with actual image path
   },
 ];
 
