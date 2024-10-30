@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Tours.css'; // Import your CSS file
-import tropicalImage from '../assets/tropical-paradise.jpg';
+import tropicalImage from '../assets/tropical-image.jpg';
 
 
 const toursData = [
