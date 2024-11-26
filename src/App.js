@@ -7,6 +7,11 @@ import './styles/App.css';
 
 const App = () => {
   return (
+    <div>
+    <Home />
+    </div>
+
+    
     <Router basename="/Tourism-Website">
       <Routes>
         <Route path="/" element={<Home />} />
